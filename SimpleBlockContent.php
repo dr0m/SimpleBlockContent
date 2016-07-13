@@ -5,7 +5,7 @@ $thisfile = basename(__FILE__, ".php");
 
 # register plugin
 register_plugin(
-    $thisfile, 'SimpleBlockContent', '0.2.0', 'Luis Antonio', 'https://github.com/luis-agn', 'Replace place holders in pages with pages content', '', ''
+    $thisfile, 'SimpleBlockContent', '0.2.0', 'Luis Antonio', 'https://github.com/dr0m', 'Replace place holders in pages with pages content', '', ''
 );
 
 # activate filter
